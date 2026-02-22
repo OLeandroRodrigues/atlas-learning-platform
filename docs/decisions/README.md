@@ -13,7 +13,7 @@
 
 |   # | Document                                                                           | Status    |
 | --: | ---------------------------------------------------------------------------------- | --------- |
-| 1.1 | [Authentication Flow](docs/architecture/authentication-flow.md)                    | ⏳ Planned |
+| 1.1 | [Authentication Flow](docs/architecture/authentication-flow.md)                    | ✅ Completed |
 | 1.2 | [Authorization Model (Roles & Policies)](docs/architecture/authorization-model.md) | ⏳ Planned |
 | 1.3 | [JWT Access Tokens](docs/architecture/jwt-access-tokens.md)                        | ⏳ Planned |
 | 1.4 | [Refresh Tokens & Session Management](docs/architecture/refresh-tokens.md)         | ⏳ Planned |
